@@ -1,0 +1,148 @@
+{
+  "thresholds": {
+    "msp": 0.4201855808496475,
+    "mc": 0.6794112306833268,
+    "med": 1.0967282831668854
+  },
+  "target_coverage": 0.85,
+  "metrics_pct": {
+    "Deterministic": {
+      "cACC": 39.1,
+      "SelectiveAcc": 39.1,
+      "Coverage": 100.0,
+      "AUC": 66.21,
+      "ECE": 56.58,
+      "Brier": 38.04
+    },
+    "MSP_selective": {
+      "cACC": 49.9,
+      "SelectiveAcc": 35.28,
+      "Coverage": 77.1,
+      "AUC": 66.21,
+      "ECE": 56.58,
+      "Brier": 38.04
+    },
+    "MC_entropy_selective": {
+      "cACC": 73.95,
+      "SelectiveAcc": 63.82,
+      "Coverage": 70.2,
+      "AUC": 66.29,
+      "ECE": 43.49,
+      "Brier": 23.99
+    },
+    "Med_FineR_pp": {
+      "cACC": 73.95,
+      "SelectiveAcc": 63.82,
+      "Coverage": 70.2,
+      "AUC": 66.29,
+      "ECE": 43.49,
+      "Brier": 23.99
+    }
+  },
+  "ci95_pct": {
+    "Deterministic": {
+      "cACC": [
+        36.92,
+        41.13
+      ],
+      "SelectiveAcc": [
+        36.92,
+        41.13
+      ],
+      "Coverage": [
+        100.0,
+        100.0
+      ],
+      "AUC": [
+        58.01,
+        74.74
+      ],
+      "ECE": [
+        55.63,
+        57.51
+      ],
+      "Brier": [
+        36.89,
+        39.16
+      ]
+    },
+    "MSP_selective": {
+      "cACC": [
+        48.07,
+        51.53
+      ],
+      "SelectiveAcc": [
+        32.92,
+        37.03
+      ],
+      "Coverage": [
+        75.21,
+        78.0
+      ],
+      "AUC": [
+        58.01,
+        74.74
+      ],
+      "ECE": [
+        55.63,
+        57.51
+      ],
+      "Brier": [
+        36.89,
+        39.16
+      ]
+    },
+    "MC_entropy_selective": {
+      "cACC": [
+        71.66,
+        75.79
+      ],
+      "SelectiveAcc": [
+        61.82,
+        66.22
+      ],
+      "Coverage": [
+        68.76,
+        72.08
+      ],
+      "AUC": [
+        58.71,
+        75.66
+      ],
+      "ECE": [
+        42.6,
+        44.17
+      ],
+      "Brier": [
+        23.15,
+        24.75
+      ]
+    },
+    "Med_FineR_pp": {
+      "cACC": [
+        71.66,
+        75.79
+      ],
+      "SelectiveAcc": [
+        61.82,
+        66.22
+      ],
+      "Coverage": [
+        68.76,
+        72.08
+      ],
+      "AUC": [
+        58.71,
+        75.66
+      ],
+      "ECE": [
+        42.6,
+        44.17
+      ],
+      "Brier": [
+        23.15,
+        24.75
+      ]
+    }
+  }
+}

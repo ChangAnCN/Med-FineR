@@ -1,0 +1,61 @@
+{
+  "seeds": [
+    "seed_123",
+    "seed_3407",
+    "seed_42"
+  ],
+  "mean_std_pct": {
+    "BLIP2_proxy": {
+      "cACC": {
+        "mean": 43.49,
+        "std": 11.85
+      },
+      "SelectiveAcc": {
+        "mean": 43.49,
+        "std": 11.85
+      },
+      "Coverage": {
+        "mean": 100.0,
+        "std": 0.0
+      },
+      "AUC": {
+        "mean": 64.62,
+        "std": 1.76
+      },
+      "ECE": {
+        "mean": 51.52,
+        "std": 5.53
+      },
+      "Brier": {
+        "mean": 32.49,
+        "std": 6.06
+      }
+    },
+    "Med_FineR_pp": {
+      "cACC": {
+        "mean": 88.57,
+        "std": 3.05
+      },
+      "SelectiveAcc": {
+        "mean": 77.1,
+        "std": 8.27
+      },
+      "Coverage": {
+        "mean": 45.24,
+        "std": 3.82
+      },
+      "AUC": {
+        "mean": 61.8,
+        "std": 1.01
+      },
+      "ECE": {
+        "mean": 40.58,
+        "std": 2.1
+      },
+      "Brier": {
+        "mean": 21.19,
+        "std": 2.38
+      }
+    }
+  }
+}

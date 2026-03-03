@@ -1,0 +1,96 @@
+{
+  "threshold_prob": 0.4099999999999999,
+  "thresholds_uncertainty": {
+    "no_ep": 0.05064446870237589,
+    "no_al": 0.7614712953567505,
+    "med": 0.49881123781204223
+  },
+  "Deterministic": {
+    "cACC": 23.5,
+    "AUC": 50.33,
+    "AUPRC": 2.65,
+    "ECE": 55.94,
+    "Brier": 37.55,
+    "BalancedAcc": 50.01,
+    "Sensitivity": 77.78,
+    "Specificity": 22.25,
+    "SelectiveAcc": 23.5,
+    "Coverage": 100.0
+  },
+  "Med_FineR_pp": {
+    "cACC": 71.0,
+    "AUC": 49.47,
+    "AUPRC": 2.55,
+    "ECE": 42.52,
+    "Brier": 24.42,
+    "BalancedAcc": 43.86,
+    "Sensitivity": 33.33,
+    "Specificity": 54.39,
+    "SelectiveAcc": 53.88,
+    "Coverage": 61.25
+  },
+  "Ablation": {
+    "No_epistemic": {
+      "cACC": 66.5,
+      "AUC": 49.47,
+      "AUPRC": 2.55,
+      "ECE": 42.52,
+      "Brier": 24.42,
+      "BalancedAcc": 40.05,
+      "Sensitivity": 40.0,
+      "Specificity": 40.09,
+      "SelectiveAcc": 40.09,
+      "Coverage": 54.25
+    },
+    "No_aleatoric": {
+      "cACC": 87.5,
+      "AUC": 49.47,
+      "AUPRC": 2.55,
+      "ECE": 42.52,
+      "Brier": 24.42,
+      "BalancedAcc": 59.89,
+      "Sensitivity": 50.0,
+      "Specificity": 69.78,
+      "SelectiveAcc": 69.5,
+      "Coverage": 35.25
+    }
+  },
+  "RiskCoveragePoints": {
+    "cov_70": {
+      "cACC": 71.0,
+      "AUC": 49.47,
+      "AUPRC": 2.55,
+      "ECE": 42.52,
+      "Brier": 24.42,
+      "BalancedAcc": 43.86,
+      "Sensitivity": 33.33,
+      "Specificity": 54.39,
+      "SelectiveAcc": 53.88,
+      "Coverage": 61.25
+    },
+    "cov_80": {
+      "cACC": 71.0,
+      "AUC": 49.47,
+      "AUPRC": 2.55,
+      "ECE": 42.52,
+      "Brier": 24.42,
+      "BalancedAcc": 43.86,
+      "Sensitivity": 33.33,
+      "Specificity": 54.39,
+      "SelectiveAcc": 53.88,
+      "Coverage": 61.25
+    },
+    "cov_90": {
+      "cACC": 71.0,
+      "AUC": 49.47,
+      "AUPRC": 2.55,
+      "ECE": 42.52,
+      "Brier": 24.42,
+      "BalancedAcc": 43.86,
+      "Sensitivity": 33.33,
+      "Specificity": 54.39,
+      "SelectiveAcc": 53.88,
+      "Coverage": 61.25
+    }
+  }
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "theta": 0.5,
+    "coverage": 0.0,
+    "selective_acc": 0.0
+  },
+  {
+    "theta": 0.55,
+    "coverage": 0.0,
+    "selective_acc": 0.0
+  },
+  {
+    "theta": 0.6,
+    "coverage": 0.0,
+    "selective_acc": 0.0
+  },
+  {
+    "theta": 0.65,
+    "coverage": 0.014423076923076924,
+    "selective_acc": 0.8888888888888888
+  },
+  {
+    "theta": 0.7,
+    "coverage": 0.05128205128205128,
+    "selective_acc": 0.9375
+  },
+  {
+    "theta": 0.75,
+    "coverage": 0.10416666666666667,
+    "selective_acc": 0.8461538461538461
+  },
+  {
+    "theta": 0.8,
+    "coverage": 0.1762820512820513,
+    "selective_acc": 0.7818181818181819
+  },
+  {
+    "theta": 0.8500000000000001,
+    "coverage": 0.34455128205128205,
+    "selective_acc": 0.7534883720930232
+  },
+  {
+    "theta": 0.9,
+    "coverage": 0.5272435897435898,
+    "selective_acc": 0.7872340425531915
+  },
+  {
+    "theta": 0.95,
+    "coverage": 0.719551282051282,
+    "selective_acc": 0.8017817371937639
+  },
+  {
+    "theta": 1.0,
+    "coverage": 0.8814102564102564,
+    "selective_acc": 0.8163636363636364
+  },
+  {
+    "theta": 1.05,
+    "coverage": 0.9503205128205128,
+    "selective_acc": 0.8128161888701517
+  },
+  {
+    "theta": 1.1,
+    "coverage": 0.9807692307692307,
+    "selective_acc": 0.815359477124183
+  },
+  {
+    "theta": 1.15,
+    "coverage": 0.9967948717948718,
+    "selective_acc": 0.815112540192926
+  },
+  {
+    "theta": 1.2000000000000002,
+    "coverage": 0.9967948717948718,
+    "selective_acc": 0.815112540192926
+  },
+  {
+    "theta": 1.25,
+    "coverage": 0.9983974358974359,
+    "selective_acc": 0.8154093097913323
+  },
+  {
+    "theta": 1.3,
+    "coverage": 0.9983974358974359,
+    "selective_acc": 0.8154093097913323
+  },
+  {
+    "theta": 1.35,
+    "coverage": 0.9983974358974359,
+    "selective_acc": 0.8154093097913323
+  },
+  {
+    "theta": 1.4,
+    "coverage": 0.9983974358974359,
+    "selective_acc": 0.8154093097913323
+  },
+  {
+    "theta": 1.4500000000000002,
+    "coverage": 0.9983974358974359,
+    "selective_acc": 0.8154093097913323
+  },
+  {
+    "theta": 1.5,
+    "coverage": 1.0,
+    "selective_acc": 0.8141025641025641
+  },
+  {
+    "theta": 1.55,
+    "coverage": 1.0,
+    "selective_acc": 0.8141025641025641
+  },
+  {
+    "theta": 1.6,
+    "coverage": 1.0,
+    "selective_acc": 0.8141025641025641
+  }
+]

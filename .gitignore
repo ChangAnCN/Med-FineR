@@ -1,0 +1,29 @@
+# 忽略数据
+datasets/
+*.zip
+*.tar
+*.rar
+
+# 忽略模型权重
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# 忽略缓存
+__pycache__/
+*.pyc
+
+# 忽略日志
+logs/
+*.log
+
+# 系统文件
+.DS_Store
+
+CXR8/
+CXR8.zip
+
+tmp/
+paper/
+docs/
